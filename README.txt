@@ -4,4 +4,4 @@ of TypeScript object types to apply types to a variety of classes, properties, a
 
 I used Typescript, JSON and Javascript.
 
-This project was done by Jerel Wilson
+This project was done by Jerel Wilson.
